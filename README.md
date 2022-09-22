@@ -4,7 +4,7 @@
 
 ## Links
 <hr>
-##Check The Live Website ➡️</b> <a href="https://joemre.github.io/Guess-Game-JS/">Live Website</a> 
+<b>Check The Live Website ➡️</b> <a href="https://joemre.github.io/Guess-Game-JS/">Live Website</a> 
 <hr>
 
 ### Built with
